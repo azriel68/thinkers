@@ -1,0 +1,6 @@
+[submodule "lib/jsPlumb"]
+	path = lib/jsPlumb
+	url = https://github.com/sporritt/jsPlumb.git
+[submodule "lib/abricot"]
+	path = lib/abricot
+	url = git@46.105.102.65:doli-abricot.git
